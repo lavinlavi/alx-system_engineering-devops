@@ -1,2 +1,2 @@
-#!/binbash
-ls -xamp
+#!/bin/bash
+#ls -amvp
